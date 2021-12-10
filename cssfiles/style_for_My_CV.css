@@ -1,0 +1,207 @@
+body {
+        background-color: white;
+        margin: 0px;
+        font-family: "Merriweather", serif;
+        width: 100%;
+}
+
+p {
+        font-family: "Merriweather", serif;
+}
+
+h1 {
+        margin: 0px;
+        color: #66BFBF;
+}
+
+h2 {
+        margin: 0;
+        color:#66BFBF;
+}
+
+h3 {
+        margin: ;
+        color: #11999E;
+}
+
+a {
+        #11999E;
+}
+
+hr {
+        border: dotted #EAF6F6 6px;
+        border-bottom: none;
+        width: 6%;
+        margin: 100px auto;
+}
+
+.topdiv {
+        background-color: #E4F9F5;
+        width: 100%;
+        height: 11923x;
+        padding: 50px 30px 0px 30px;
+}
+
+#name {
+        font-family:"Satisfy", cursive;
+        font-size: 3rem;
+        display: block;
+        margin: 50px auto 10px auto;
+        color: #66BFBF;
+        line-height: 2;
+        text-align: center;
+}
+
+#description {
+        display: block;
+        font-family: "Pacifico", cursive;
+        text-align: center;
+        font-size: 25px;
+        color: #66BFBF;
+}
+
+#ajji_img {
+            width: 300px;
+            height: 300px;
+            border-radius: 100%;
+            background-color: #7027A0;
+            border: 3px solid #195820;
+            padding: 3px;
+            display: inline-block;
+            position: relative;
+            left: 100px;
+            top: 30px;
+
+}
+
+#ajji_img:hover {
+            background-color: gold;
+            border-color: black;
+
+}
+
+#ajji_img2 {
+            width: 200px;
+            height: 200px;
+            border-radius: 100%;
+            background-color: #;
+            border: 3px solid #66BFBF;
+            padding: 3px;
+            display: block;
+            margin: 10px auto 10px auto;
+}
+
+
+#left_img {
+            width: 350px;
+            height: 150px;
+            display: inline-block;
+            position: relative;
+            top: 50px;
+            left: 130px;
+
+}
+
+#right_img {
+            width: 350px;
+            height: 150px;
+            display: inline-block;
+            position: relative;
+            bottom: 150px;
+            left: 25px;
+}
+
+#mountainimg {
+                position: relative;
+                left: 100px;
+                height: 600px;
+                width: 1000px;
+                bottom: 0;
+}
+
+.heading {
+            color: 66BFBF;
+            text-align: center;
+            margin: 10px auto 100px auto;
+}
+
+.hello {
+            text-align: center;
+
+}
+
+.myinfo {
+            text-align: center;
+            width: 500px;
+            align: center;
+            line-height: 2.0;
+            margin: 25px auto 40px auto;
+}
+
+.blocks {
+            background-color: white;
+            height: 200px;
+            width: 50%;
+            padding: 10px 10px 10px 10px;
+            display: block;
+            margin: 25px auto 25px auto;
+            text-align: left;
+            line-height: 2;
+
+}
+
+#bottomblock {
+            background-color: #66BFBF;
+            padding: 30px;
+            width: 100%;
+            border: solid 2px;
+            margin: 0px;
+            display: block;
+}
+
+.blockimgl {
+            width: 25%;
+            padding: 0px;
+            border: solid 2px black;
+            border-radius: 100%;
+            background-color: black;
+            float: left;
+            margin-right: 30px;
+}
+
+.blockimgr {
+            width: 25%;
+            padding: 0px;
+            border: solid 2px black;
+            border-radius: 100%;
+            background-color: black;
+            float: right;
+            margin-left: 30px;
+}
+
+.blockparas {
+                font-size: 20px;
+
+}
+
+#contact-me {
+
+}
+
+.tabs {
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        color: #11999E;
+        text-decoration: none;
+        font-size: 1.5rem;
+        left: 550px;
+}
+
+#lastblockwritings {
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        color: #EAF6F6;
+        left: 550px;
+}
